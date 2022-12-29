@@ -1,0 +1,636 @@
+body {
+  background: black;
+  position: absolute;
+  width: 1440px;
+}
+.n1 {
+  position: relative;
+  margin-top: 1300px;
+  left: -250px;
+  transform: rotate(347deg);
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: n1;
+
+
+}
+.n4 {
+  position: relative;
+  left: 537px;
+  top: -219px;
+  transform: rotate(43deg);
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: n4;
+  z-index: -7;
+
+
+}
+.n5 {
+  position: relative;
+  left: 99px;
+  top: -352px;
+  transform: rotate(351deg);
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: n5;
+
+}
+.n6 {
+  position: relative;
+  left: 509px;
+  top: -559px;
+  transform: rotate(57deg);
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: n6;
+
+}
+.n7 {
+  position: relative;
+  left: 974px;
+  top: -1269px;
+  transform: rotate(314deg);
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: n7;
+
+}
+.wh1 {
+  position: relative;
+  left: -8px;
+  top: -1039px;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: wh1;
+}
+.r1 {
+  position: relative;
+  left: -8px;
+  top: -1541px;
+  animation-duration: 1s;
+  /* animation-delay: 1s; */
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: r1;
+}
+.wh2 {
+  position: relative;
+  left: 18px;
+  top: -1803px;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: wh2;
+}
+.r2 {
+  position: relative;
+  left: 18px;
+  top: -2181px;
+  animation-duration: 1s;
+  /* animation-delay: 1s; */
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-name: r2;
+}
+.txt1 {
+  position: relative;
+  top: -1670px;
+}
+.txt2 {
+  position: relative;
+  top: -2154px;
+  left: 403px;
+}
+.txt3 {
+  position: relative;
+  top: -4712px;
+  left: 106px;
+}
+
+.back2 {
+  position: relative;
+  top: -2248px;
+  left: -9px;
+}
+
+
+.box {
+  position: absolute;
+  top: 0px;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+.box1 {
+  z-index: -4;
+  animation-name: box1;
+}
+.box2 {
+  z-index: -3;
+  animation-name: box2;
+}
+.box3 {
+  z-index: -2;
+  animation-name: box3;
+}
+.mouth {
+  position: relative;
+  box-sizing: border-box;
+}
+.mouth1 {
+  top: 133px;
+  left: 600px;
+  transform: rotate(10deg);
+}
+.mouth2 {
+  top: 574px;
+  left: -109px;
+  transform: rotate(55deg);
+
+}
+.mouth3 {
+  top: 385px;
+  left: 612px;
+  transform: rotate(70deg);
+}
+.mouth4 {
+  top: 424px;
+  left: -900px;
+  transform: rotate(30deg);
+}
+.mouth5 {
+  top: 230px;
+  left: -1000px;
+  transform: rotate(30deg);
+  }
+.mouth6 {
+  top: 220px;
+  left: 260px;
+  transform: rotate(360deg);
+}
+.mouth7 {
+  top: 400px;
+  left: 250px;
+  transform: rotate(55deg);
+}
+.mouth8 {
+  top: 191px;
+  left: 326px;
+  /* transform: rotate(70deg); */
+}
+.mouth9 {
+  top: 301px;
+  left: -900px;
+  transform: rotate(30deg);
+}
+.mouth10 {
+  top: -206px;
+  left: -400px;
+  transform: rotate(30deg);
+  }
+.mouth11 {
+  top: 768px;
+  left: 962px;
+  transform: rotate(25deg);
+}
+.mouth12 {
+  top: 217px;
+  left: 200px;
+}
+.mouth13 {
+  top: 454px;
+  left: -146px;
+  transform: rotate(25deg);
+}
+.mouth14 {
+  top: 452px;
+  left: 0px;
+  transform: rotate(30deg);
+
+}
+.mouth15 {
+  top: -120px;
+  left: -1500px;
+  transform: rotate(-30deg);
+  }
+.title {
+  box-sizing: border-box;
+  position: absolute;
+  z-index: -1;
+  top: 517px;
+  left: 368px;
+  align-items: center;
+  animation-name: title;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+.boc1 {
+  position: relative;
+  top: -2097px;
+  left: -106px;
+  animation-name: boc1;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(25deg);
+}
+.boc2 {
+  position: relative;
+  top: -2097px;
+  left: -106px;
+  animation-name: boc2;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(25deg);
+}
+.bot {
+  position: relative;
+  top: -2097px;
+  left: -106px;
+  animation-name: bot;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(25deg);
+}
+.m1 {
+  position: relative;
+  top: -3442px;
+  left: -239px;
+  animation-name: m1;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(169deg);
+  z-index: 1;
+}
+.m2 {
+  position: relative;
+  top: -3497px;
+  left: 319px;
+  animation-name: m2;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(346deg);
+  z-index: 1;
+}
+.m3 {
+  position: relative;
+  top: -4301px;
+  left: 346px;
+}
+.mes1 {
+  position: relative;
+  top: -4561px;
+  left: -656px;
+  animation-name: mes1;
+  animation-duration: 3s;
+  animation-delay: 0s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+  transform: rotate(346deg);
+}
+.mes2 {
+  position: relative;
+  top: -4793px;
+  left: 838px;
+  animation-name: mes2;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+  transform: rotate(346deg);
+}
+.mes3 {
+  position: relative;
+  top: -4452px;
+  left: -417px;
+  animation-name: mes3;
+  animation-duration: 4s;
+  animation-delay: 1s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+  transform: rotate(303deg);
+}
+.back3 {
+  position: relative;
+  top: -4269px;
+  left: -10px;
+
+}
+.m4 {
+  position: relative;
+  top: -5170px;
+  left: -994px;
+  animation-name: m4;
+  animation-duration: 3s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+}
+.mes4 {
+  position: relative;
+  top: -6443px;
+  left: 783px;
+  /* animation-direction: alternate; */
+  /* animation-iteration-count: infinite; */
+  transform: rotate(17deg);
+}
+.mes5 {
+  position: relative;
+  top: -5354px;
+  left: -307px;
+  transform: rotate(27deg);
+}
+.fr {
+  position: relative;
+  top: -5682px;
+  left: -14px;
+  animation-name: fr;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+
+}
+.mk1 {
+  position: relative;
+  top: -5555px;
+  left: 288px;
+  animation-name: mk1;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+
+}
+.mk2 {
+  position: relative;
+  top: -5555px;
+  left: 406px;
+  animation-name: mk2;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+
+}
+.mk3 {
+  position: relative;
+  top: -5555px;
+  left: 513px;
+  animation-name: mk3;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+
+}
+.my1 {
+  position: relative;
+  top: -5555px;
+  left: -402px;
+  animation-name: my1;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+}
+.my2 {
+  position: relative;
+  top: -5555px;
+  left: -338px;
+  animation-name: my2;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+}
+.my3 {
+  position: relative;
+  top: -5755px;
+  left: 921px;
+  animation-name: my3;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+}
+.mp1 {
+  position: relative;
+  top: -5763px;
+  left: 27px;
+  animation-name: mp1;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+}
+.mp2 {
+  position: relative;
+  top: -5763px;
+  left: 187px;
+  animation-name: mp2;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+}
+.mp3 {
+  position: relative;
+  top: -5763px;
+  left: 339px;
+  animation-name: mp3;
+  animation-duration: 2s;
+  /* animation-direction: alternate; */
+  animation-iteration-count: infinite;
+}
+
+.txt4 {
+  position: relative;
+  top: -5716px;
+  left: 155px;
+}
+
+.back4 {
+  position: relative;
+  top: -5716px;
+  left: -30px;
+}
+.mes6 {
+  position: relative;
+  top: -6803px;
+  left: 8px;
+  animation-name: n1;
+  animation-duration: 2s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(195deg);
+
+}
+.mes7 {
+  position: relative;
+  top: -6942px;
+  left: 364px;
+  animation-name: n4;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  transform: rotate(33deg);
+
+}
+.pod{
+  position: relative;
+  top: -7349px;
+  left: 20px;
+}
+
+/* тут я пыталась закодить штуку, которая должна быть типа с эффектом погружения
+при скролле, но у меня ничего не получилось, а удалять было жалко*/
+/* .box {
+  box-sizing: border-box;
+  min-height: 100%;
+  transform-style: inherit;
+  min-width: 100%;
+}
+.box1::before {
+  content: '';
+  z-index: 2;
+  min-width: 100%;
+  min-height: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: block;
+  position: absolute;
+  transform-origin: center;
+  transform: translateZ(-3px) scale(4);
+  transition: 1s;
+}
+.box2::before {
+  content: '';
+  z-index: 1;
+  min-width: 100%;
+  min-height: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: block;
+  position: absolute;
+  transform-origin: center;
+  transform: translateZ(-2px) scale(3);
+  transition: 1s;
+}
+.box3::before {
+  content: '';
+  z-index: 3;
+  min-width: 100%;
+  min-height: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  display: block;
+  position: absolute;
+  transform-origin: center;
+  transform: translateZ(-1px) scale(2);
+  transition: 1s;
+}
+ */
+/* .mouth1 {
+  left: 413px;
+  top: -473px;
+}
+.mouth2 {
+  left: -715px;
+  top: -280px;
+}
+.mouth3 {
+  left: -782px;
+  top: 326px;
+}
+.mouth4 {
+  left: 284px;
+  top: -1047px;
+
+}
+.mouth5 {
+  left: -179px;
+  top: -1101px;
+}
+.mouth6 {
+  left: -1578px;
+  top: -1296px;
+}
+.mouth7 {
+  left: 58px;
+  top: -2522px;
+}
+.mouth8 {
+  left: 38px;
+  top: -2013px;
+  }
+.mouth9 {
+  left: -246px;
+  top: -2653px;
+}
+.mouth10 {
+  left: 341px;
+  top: 450px;
+
+}
+.mouth11 {
+  left: 341px;
+  top: 450px;
+
+}
+.mouth12 {
+  left: 341px;
+  top: 450px;
+
+}
+.mouth13{
+  left: 341px;
+  top: 450px;
+
+}
+.mouth14 {
+  left: 341px;
+  top: 450px;
+
+}
+.mouth15 {
+  left: 341px;
+  top: 450px;
+
+}
+.title {
+  position: relative;
+  z-index: 4;
+} */
+}
+}
+}
+}
+
+}
+}
