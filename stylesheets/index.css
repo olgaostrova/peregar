@@ -1,0 +1,196 @@
+.back {
+  opacity: 30%;
+  position: absolute;
+  width: 1440px;
+  z-index: -100
+}
+@keyframes box1 {
+  0% {top:-18px}
+  100% {top:-671px;}
+}
+@keyframes box2 {
+  0% {top:-392px;}
+  100% {top:-9px;}
+}
+@keyframes box3 {
+  0% {top:-170px;}
+  100% {top: -608px;}
+}
+@keyframes title {
+  0% {transform: rotate(0);}
+  50% {transform: rotate(-20deg);}
+  100% {transform: rotate(298deg);}
+}
+@keyframes n1 {
+  0% {transform: rotate(0);}
+  100% {transform: rotate(40deg);}
+}
+@keyframes n4 {
+  0% {transform: rotate(0);}
+  100% {transform: rotate(-40deg);}
+}
+@keyframes n5 {
+  0% {transform: rotate(0);}
+  100% {transform: rotate(75deg);}
+}
+@keyframes n6 {
+  0% {transform: rotate(0);}
+  100% {transform: rotate(70deg);}
+}
+@keyframes n7 {
+  0% {transform: rotate(0);}
+  100% {transform: rotate(-30deg);}
+}
+@keyframes r1 {
+  0% {opacity: 0%}
+  49% {opacity: 0%}
+  50% {opacity: 100%}
+  100% {opacity: 100%}
+}
+@keyframes r2 {
+  0% {opacity: 100%}
+  49% {opacity: 100%}
+  50% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes boc1 {
+  0% {transform: rotate(0); top: -2097px; left: -106px;}
+  100% {transform: rotate(302deg); top: -2212px; left: 1000px}
+}
+@keyframes boc2 {
+  100% {transform: rotate(0); top: -1773px; left: -95px;}
+  0% {transform: rotate(20deg); top: -1776px; left: -100px}
+}
+@keyframes bot {
+  0% {transform: rotate(347deg); top: -2519px; left: 579px}
+  20% {transform: rotate(347deg); top: -2519px; left: 579px}
+  100% {transform: rotate(70deg); top: -2500px; left: 467px}
+}
+@keyframes m1 {
+  0% { transform:  rotate(169deg);  top: -3442px;  left: -239px }
+  50% {     transform: rotate(346deg); top: -2772px;  left: 373px;}
+  100% { transform: rotate(169deg); top: -3442px;    left: -239px }
+}
+@keyframes m2 {
+  0% { transform:  rotate(346deg); top: -3497px; left: 319px }
+  50% {       transform: rotate(174deg); top: -4363px;left: -55px;}
+  100% { transform:  rotate(346deg); top: -3497px; left: 319px }
+}
+@keyframes mes1 {
+  0% {opacity: 100%}
+  32% {opacity: 100%}
+  33% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mes2 {
+  0% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 100%}
+  66% {opacity: 100%}
+  67% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mes3 {
+  0% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 100%}
+  100% {opacity: 100%}
+}
+@keyframes m4 {
+  0% { top: -5170px; left: -994px}
+  100% {top: -5170px;  left: -291px}
+}
+@keyframes mk1 {
+  0% {opacity: 100%}
+  1% {opacity: 100%}
+  32% {opacity: 100%}
+  33% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 0%}
+  99% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mk2 {
+  0% {opacity: 0%}
+  1% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 100%}
+  66% {opacity: 100%}
+  67% {opacity: 0%}
+  99% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mk3 {
+  0% {opacity: 0%}
+  1% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 100%}
+  99% {opacity: 100%}
+  100% {opacity: 0%}
+}
+@keyframes my2 {
+  0% {opacity: 0%}
+  1% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 100%}
+  99% {opacity: 100%}
+  100% {opacity: 0%}
+}
+@keyframes my1 {
+  0% {opacity: 0%}
+  1% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 100%}
+  99% {opacity: 100%}
+  100% {opacity: 100%}
+}
+@keyframes my3 {
+  0% {opacity: 100%}
+  1% {opacity: 100%}
+  32% {opacity: 100%}
+  33% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 0%}
+  99% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mp1 {
+  0% {opacity: 0%}
+  1% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 100%}
+  66% {opacity: 100%}
+  67% {opacity: 0%}
+  99% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mp2 {
+  0% {opacity: 100%}
+  1% {opacity: 100%}
+  32% {opacity: 100%}
+  33% {opacity: 0%}
+  66% {opacity: 0%}
+  67% {opacity: 0%}
+  99% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes mp3 {
+  0% {opacity: 0%}
+  1% {opacity: 0%}
+  32% {opacity: 0%}
+  33% {opacity: 100%}
+  66% {opacity: 100%}
+  67% {opacity: 0%}
+  99% {opacity: 0%}
+  100% {opacity: 0%}
+}
+@keyframes fr {
+  0% {transform: rotate(-5deg);}
+  100% {transform: rotate(5deg);}
+}
